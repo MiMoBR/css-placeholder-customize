@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title></title>
+
+		<style type="text/css">
+			::placeholder {
+				color: deeppink;
+				font-size: 15px;
+				text-transform: uppercase;
+			}
+			::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+				color: deeppink;
+				font-size: 15px;
+				text-transform: uppercase;
+			}
+			::-moz-placeholder { /* Firefox 19+ */
+				color: deeppink;
+				font-size: 15px;
+				text-transform: uppercase;
+			}
+			:-ms-input-placeholder { /* IE 10+ */
+				color: deeppink;
+				font-size: 15px;
+				text-transform: uppercase;
+			}
+			:-moz-placeholder { /* Firefox 18- */
+				color: deeppink;
+				font-size: 15px;
+				text-transform: uppercase;
+			}
+		</style>
+
+	</head>
+	<body>
+		<input type="text" name="" placeholder="CSS placeholder">			
+		
+		<script type="text/javascript">
+			
+		</script>
+	</body>
+</html>
